@@ -1,0 +1,153 @@
+.top,
+.footer {
+    background-color:#1f2937;
+}
+
+.header1{
+    color:#f9f8fa;
+    font-size:24px;
+}
+.subtext,
+.header-links{
+    color:#e5e7eb;
+    font-size:18px;
+
+}
+.title{
+color:#f9faf8;
+font-size:48px;
+font-weight:800;
+}
+.c2a{
+    background-color: #3882F6;
+}
+.info{
+    font-size:36px;
+    font-weight:800;
+    color:#1F2937;
+}
+.quote{
+    background-color:#e5e7eb;
+    color:#1f2937;
+    font-size:36px;
+    font-style:italic;
+}
+
+.rcorner{
+    border-radius: 25px;
+    border: 2px solid blue;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+
+  }
+
+ .header1{
+     display:flex;
+     width:60%;
+     justify-content: center;
+     margin-right:16em;
+
+     }
+.links{
+    display:flex;
+    flex-direction: row;
+    gap:16px;
+    justify-content: space-around;
+    width:40%;
+}
+
+.headers{
+    display:flex;
+    
+}
+.whole{
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+
+}
+img{
+    width:400px;
+    padding:3em;
+}
+.info{
+    text-align: center;
+    padding: 2rem;
+}
+.allofem{
+    display:Flex;
+    gap:1rem;
+    align-items: center;
+    margin-left:50px;
+    margin-right:50px;
+    justify-content: center;
+    font-size: 24px;
+}
+.headers{
+    padding:25px;
+}
+.st,
+.nd,
+.rd,
+.th{
+    display:flex;
+    flex-direction: column;
+
+}
+.quote{
+    padding:100 300;
+    display:Flex;
+    align-items: center;
+    justify-content: center;
+}
+.c2a{
+display:Flex;
+justify-content: center;
+margin:100px 200px;
+padding:25px 60px;
+border-radius:12px;
+color:white;
+font-size:20px;
+
+}
+button{
+    background-color:#3882F6;
+    color:white;
+    display:flex;
+    padding:5 15px;
+    border-radius: 8px;
+}
+footer{
+    background-color:#1f2937;
+    color:#f9f8fa;
+   text-align: center;
+   padding:50 100;
+}
+
+.leftoff{
+    display:flex;
+    flex-direction: column;
+}
+
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.tit{
+    font-weight:bold;
+    margin-bottom:0;
+    font-size:24px
+
+}
+.Inf{
+    margin-top:0;
+    margin-right:16px;
+}
+.lower{
+    border-color:white;
+   padding:12 28;
+}
+.rightoff{
+    display:flex;
+    align-self: center;
+}
